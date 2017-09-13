@@ -1,0 +1,10 @@
+C:\Users\Noman\source\repos\Client\Client\bin\Release\Client.exe.config
+C:\Users\Noman\source\repos\Client\Client\bin\Release\Client.exe
+C:\Users\Noman\source\repos\Client\Client\bin\Release\Client.pdb
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.Form1.resources
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.exe
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.pdb
+C:\Users\Noman\source\repos\Client\Client\obj\Release\Client.csprojResolveAssemblyReference.cache

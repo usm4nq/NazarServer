@@ -1,0 +1,7 @@
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NazarServer.exe.config
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NazarServer.exe
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NazarServer.pdb
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NazarServer.exe
+C:\Users\Noman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NazarServer.pdb
